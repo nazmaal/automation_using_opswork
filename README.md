@@ -1,2 +1,6 @@
-# automation_using_opswork
-this is the copy as test
+Automation Using OpsWorks
+=========================
+
+As part of the AWS Tutorial Series YouTube channel here is the repository for the series Automation Using OpsWorks.
+
+https://www.youtube.com/user/awstutorialseries
